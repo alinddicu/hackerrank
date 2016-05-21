@@ -1,0 +1,7 @@
+D:\Alin\hackerrank\hackerrank\bin\Debug\hackerrank.dll
+D:\Alin\hackerrank\hackerrank\bin\Debug\hackerrank.pdb
+D:\Alin\hackerrank\hackerrank\bin\Debug\NFluent.dll
+D:\Alin\hackerrank\hackerrank\bin\Debug\NFluent.xml
+D:\Alin\hackerrank\hackerrank\obj\Debug\hackerrank.csprojResolveAssemblyReference.cache
+D:\Alin\hackerrank\hackerrank\obj\Debug\hackerrank.dll
+D:\Alin\hackerrank\hackerrank\obj\Debug\hackerrank.pdb
